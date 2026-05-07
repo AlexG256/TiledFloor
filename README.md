@@ -29,7 +29,7 @@ YPG<br>**
 Other fixes are possible such as exchanging the first two tiles on row 2 to get PRC and then exchanging the middle tiles in rows 3 and 4. Your program does not print the resulting floor arrangement, just the minimum number of tile swaps that must take place. Sometimes it is not possible to fix a floor:<br>
 **GGYGP<br>
 CGGRG<br>**
-This isn’t possible to tile because there are 6 Gs and a floor this size can fit only 5 without two being adjacent. In cases where there is no solution, the output is to be
+This isn’t possible to tile because there are 6 Gs and a floor this size can fit only 5 without two being adjacent. In cases where there is no solution, the output is to be<br>
 **not possible<br>**
 """
 
